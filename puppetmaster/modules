@@ -1,0 +1,3 @@
+puppet module install puppetlabs-mysql
+puppet module install puppetlabs-apache
+puppet module install ajjahn-dns
